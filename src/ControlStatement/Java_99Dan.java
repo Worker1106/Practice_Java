@@ -10,7 +10,6 @@ public class Java_99Dan {
                 if(i%2==0) {
                     System.out.println(i + "*" + j + "=" + (i * j));
                 }
-
             }
             if(i%2==0) {
                 System.out.println();
